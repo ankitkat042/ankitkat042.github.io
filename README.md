@@ -4,9 +4,11 @@
 
 ## Jump to specific semester
 - [Sem 1](#iiit-sem-1-resources)
-
+<center>
+ 
 | [IP](#ip) | [DC](#dc) | [LA](#linear-algebra)  | [HCI](#hci) | [COM](#comms) |
 |----|----|----|-----|------|
+</center>
 
 - [Sem 2](#iiit-sem-2-resources)
 
