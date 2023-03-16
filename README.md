@@ -4,47 +4,35 @@
 
 ## Jump to specific semester
 - [Sem 1](#iiit-sem-1-resources)
-<center>
 
 | [IP](#ip) | [DC](#dc) | [LA](#linear-algebra)  | [HCI](#hci) | [COM](#comms) |
 |----|----|----|-----|------|
-</center>
 
 - [Sem 2](#iiit-sem-2-resources)
-<center>
 
 | [DSA](#dsa) | [P&S](#probability) | [BE](#basic-electronics)  | [CO](#computer-organization) |
 |----|----|----|-----|
-</center>
 
 - [Sem 3](#iiit-sem-3-resources)
-<center>
 
 | [AP](#ap) | [OS](#os) | [DM](#discrete-maths)  | [DS](#discrete-structures)  | [M3](#mathematics-iii-multivariate-calculus) |
 |----|----|----|-----|-----|
-</center>
 
 - [Sem 4](#iiit-sem-4-resources)
-<center>
 
 | [DBMS](#dbms) | [ITS](#its) | [ADA](#ada)  | [M4](#m4)  | [PIS](#pis) | [TOC](#toc) | [SML](#statistical-ml-cse342) | [PB](#practical-bioinformatics-bio221) | [GT](#graph-theory-very-easy-course) |
 |----|----|----|-----|-----|-----|-----|-----|-----|
-</center>
 
 - [Sem 5](#iiit-sem-5-resources)
-<center>
 
 | [NLP](#nlp) | [ML](#ml) | [CN](#cn)  | [RL](#rl-reinforcement-learning)  | [CG](#computer-graphics) | [EVS](#evs) |
 |----|----|----|-----|-----|-----|
 
-</center>
 
 - [Sem 6](#iiit-sem-6-resources)
-<center>
 
 | [ATP](#atp) |
 |----|
-</center>
 
 ---
 ## IIIT Sem 1 Resources
